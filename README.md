@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnGri1
-- 👀 I’m interested in Machine Learning, Business Intelligence and the open source tools like Python Notebooks
+- 👀 I’m interested in Machine Learning, Business Intelligence and Python
 - 🌱 I’m currently learning Statistics and Machine Learning
 - 💞️ I’m looking to collaborate on data analytics projects
 - 📫 How to reach me : via email andrea.grianti@gmail.com
